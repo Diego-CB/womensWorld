@@ -1,6 +1,6 @@
 {
   "assets": [
-      { "id": "cityModel", "src": "https://xrpanet.s3-us-west-1.amazonaws.com/kidville/scene.gltf%22%7D"
+      { "id": "cityModel", "src": "https://xrpanet.s3-us-west-1.amazonaws.com/kidville/scene.gltf%22%7D"}
   ],
   "entities": [
       { "id":"city", "gltf-model": "#cityModel"}
